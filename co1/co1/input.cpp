@@ -6,7 +6,7 @@
 using namespace std;
 //template<class T, class E>
 int input(void * a) {
-	std::cout << "nyj" << std::endl;
+	//std::cout << "nyj" << std::endl;
 	Graphlnk & g = *(Graphlnk *)a;
 	fstream s;
 	s.open("Router.txt",ios::in);
