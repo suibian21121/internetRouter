@@ -12,6 +12,7 @@ manage::~manage()
 }
 void manage::menu()
 {
+	cout << "yan" << endl;
 	while (1)
 	{
 		int x;
